@@ -11,3 +11,5 @@ You can create a new issue post if you met any bug.
 [![](./images/remote-download-downloading-s.PNG)](./images/remote-download-downloading.PNG)
 [![](./images/remote-download-completed-s.PNG)](./images/remote-download-completed.PNG)
 [![](./images/uploading-s.PNG)](./images/uploading.PNG)
+[![](./images/image-preview-s.PNG)](./images/image-preview.PNG)
+[![](./images/policy-switch-s.PNG)](./images/policy-switch.PNG)
