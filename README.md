@@ -1,8 +1,9 @@
 # Cloudreve iOS Client Feedback
-> the alpha version registration is open, you can check [here](https://forum.cloudreve.org/d/2338)
 
 This repo this using for track feedback for Cloudreve iOS client
 You can create a new issue post if you met any bug.
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/cloudreve/id1619480823)
 
 # Screenshots
 > click to show the high resolution image
