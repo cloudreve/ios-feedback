@@ -1,12 +1,11 @@
 # Cloudreve iOS Client Feedback
 
-This repo this using for track feedback for Cloudreve iOS client
-You can create a new issue post if you met any bug.
-
 [![App Store](https://img.shields.io/badge/App_Store-05a3ec?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/cloudreve/id1619480823)
 [![Swift](https://img.shields.io/badge/Swift-5.6-ef503d?style=flat-square)](https://img.shields.io/badge/Swift-5.6-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-iOS-004e9a?style=flat-square)](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)
 
+This repo this using for track feedback for Cloudreve iOS client
+You can create a new issue post if you met any bug.
 
 # Screenshots
 > click to show the high resolution image
